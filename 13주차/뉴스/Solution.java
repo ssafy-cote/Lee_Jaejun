@@ -19,7 +19,7 @@
     4.1. cCount += Math.min(arr1[],arr2[])
     4.2. uCount += Math.max(arr1[],arr2[])
 5. 65536*cCount/ucount
-*/
+*/ 
 class Solution {
     public int solution(String str1, String str2) {
         int answer = 0;
